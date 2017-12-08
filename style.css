@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    color: red;
+}
+    header {
+        display: flex;
+        justify-content: space-between;
+    }
+        nav a {
+            color: yellow;
+            text-decoration: none;
+        }
+    .founder {
+        width: 400px; 
+        height: 500px;
+    }
+    .food h2 {
+        text-align: center;
+        color: yellow;
+    }
+    .food img {
+        height: 300px;
+        width: 300px;
+    }
+        section h3 {
+            color: yellow;
+        }
+    footer {
+        display: flex;
+        justify-content: space-between;
+    }
+        .media a {
+            color: yellow;
+            text-decoration: none;
+            padding-top: 20px;
+        }
